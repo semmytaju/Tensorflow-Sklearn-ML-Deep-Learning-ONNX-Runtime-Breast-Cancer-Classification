@@ -4,13 +4,13 @@ This project compares Machine Learning (SVM, KNN, Random Forest) and Deep Learni
 
 ---
 
-## 📦 Dataset
-
-- Name: Wisconsin Breast Cancer Dataset  
-- Source: UCI Machine Learning Repository  
-- Samples: 569  
-- Features: 30 numeric features  
-- Classes: 2 (Malignant, Benign)
+| Attribute | Value |
+|-----------|-------|
+| **Name** | Wisconsin Breast Cancer Dataset |
+| **Source** | UCI Machine Learning Repository |
+| **Samples** | 569 |
+| **Features** | 30 numeric features |
+| **Classes** | 2 (Malignant, Benign) |
 
 ---
 

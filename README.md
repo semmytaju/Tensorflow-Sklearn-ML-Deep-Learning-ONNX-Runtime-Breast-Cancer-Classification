@@ -1,6 +1,6 @@
 # Breast Cancer Classification using ML, DL and ONNX Runtime
 
-This project compares Machine Learning (SVM, KNN, Random Forest) and Deep Learning (Neural Network) models for binary classification using the Wisconsin Breast Cancer dataset. All models are exported to ONNX format and evaluated using ONNX Runtime.
+This project compares Machine Learning (SVM, KNN, Random Forest) and Deep Learning (Neural Network) models for binary classification using the Wisconsin Breast Cancer dataset. All models are exported to ONNX format and evaluated using ONNX Runtime. ONNX (Open Neural Network Exchange) is an open-source standard created to represent machine learning and deep learning models.
 
 ---
 
